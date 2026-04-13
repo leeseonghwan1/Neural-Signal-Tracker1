@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-ccxt
-pandas
-pandas_ta
-numpy
-requests
-websockets
-python-dotenv
